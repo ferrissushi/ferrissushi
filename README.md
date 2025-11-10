@@ -3,3 +3,4 @@
 - I like Rust, btw
 - I don't care, btw
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickyHariniaina)](https://github.com/anuraghazra/github-readme-stats)
