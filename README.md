@@ -1,7 +1,7 @@
 <h1 align="center">
   Hello 👋🏻 I'm ferrissushi</h1>
 <p align="center">
-  <img src=""/>
+  <img src="./image.jfif"/>
 </p>
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=179697333" target="_blank" style="display: block" align="center">
