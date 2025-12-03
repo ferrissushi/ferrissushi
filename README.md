@@ -1,8 +1,8 @@
-- I'm ferrissushi, btw
-- I use vim, btw
-- I like Rust, btw
-- I don't care, btw
-
+<h1 align="center">
+  Hello 👋🏻 I'm ferrissushi</h1>
+<p align="center">
+  <img src=""/>
+</p>
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=179697333" target="_blank" style="display: block" align="center">
   <picture>
