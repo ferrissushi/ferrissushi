@@ -4,6 +4,21 @@
   <img src="./image.jfif"/>
 </p>
 
+<p align="center">
+<!-- Languages -->
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
+
+<!-- Front / Tooling -->
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![API](https://img.shields.io/badge/API-0052CC?logo=swagger&logoColor=white)
+
+<!-- System / Backend -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Kernel](https://img.shields.io/badge/Kernel-000000?logo=linux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
+</p>
 - 📫 Want to reach me ?**ferrissushi@gmail.com**
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=179697333" target="_blank" style="display: block" align="center">
