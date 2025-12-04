@@ -24,11 +24,9 @@
   ![Typing Speedster](https://img.shields.io/badge/Speedtyping-🔥-orange)
   ![Sleeps%3F](https://img.shields.io/badge/Sleep-optional-blueviolet)
 
-
-
 </p>
 
-- 📫 Want to reach me ?**ferrissushi@gmail.com**
+- 📫 Want to reach me ? -> **ferrissushi@gmail.com**
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=179697333" target="_blank" style="display: block" align="center">
   <picture>
