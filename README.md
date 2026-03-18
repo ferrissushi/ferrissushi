@@ -22,7 +22,6 @@
   ![CI/CD](https://img.shields.io/badge/CI%2FCD-181717?logo=githubactions&logoColor=white)
   ![Vim User](https://img.shields.io/badge/Vim%20User-019733?logo=vim&logoColor=white)
   ![Typing Speedster](https://img.shields.io/badge/Speedtyping-🔥-orange)
-  ![Sleeps%3F](https://img.shields.io/badge/Sleep-optional-blueviolet)
 
 </p>
 
