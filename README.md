@@ -1,9 +1,3 @@
-<h1 align="center">
-  Hello 👋🏻 I'm ferrissushi</h1>
-<p align="center">
-  <img src="./pic.png"/>
-</p>
-
 <p align="center">
   
   ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
